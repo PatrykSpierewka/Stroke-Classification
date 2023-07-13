@@ -9,3 +9,9 @@ Classification carried out using the following methods:
 - NB (Naive Bayes)
 - MLP (Multilayer Perceptron)
 - GB (Gradient Boosting)
+
+| **Classiffier** | **Accuracy** | **Precision** | **Recall** | **F1** |
+|:---------------:|:------------:|:-------------:|:----------:|:------:|
+|       KNN       |       1      |       1       |      1     |    1   |
+|       SVM       |       1      |       1       |      1     |    1   |
+|        RF       |       1      |       1       | 1          |    1   |
