@@ -14,4 +14,4 @@ Classification carried out using the following methods:
 |:---------------:|:------------:|:-------------:|:----------:|:------:|
 |       KNN       |       1      |       1       |      1     |    1   |
 |       SVM       |       1      |       1       |      1     |    1   |
-|        RF       |       1      |       1       | 1          |    1   |
+|        RF       |       1      |       1       |      1     |    1   |
