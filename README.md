@@ -7,6 +7,8 @@ Classification carried out using the following methods:
 - RF (Random Forest)
 - LR (Logistic Regression)
 - MLP (Multilayer Perceptron)
+- NB (Naive Bayes)
+- GB (Gradient Boosting)
 
 | **Classiffier** | **Accuracy** | **Precision** | **Recall** |   **F1**   |
 |:---------------:|:------------:|:-------------:|:----------:|:----------:|
