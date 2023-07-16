@@ -6,9 +6,7 @@ Classification carried out using the following methods:
 - SVM (Support Vector Machines)
 - RF (Random Forest)
 - LR (Logistic Regression)
-- NB (Naive Bayes)
 - MLP (Multilayer Perceptron)
-- GB (Gradient Boosting)
 
 | **Classiffier** | **Accuracy** | **Precision** | **Recall** | **F1** |
 |:---------------:|:------------:|:-------------:|:----------:|:------:|
