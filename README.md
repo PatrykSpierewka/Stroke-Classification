@@ -13,7 +13,7 @@ The dataset contained information about various patient features, such as age, g
 - GB (Gradient Boosting)
 
 
-
+### The performance of each classifier was evaluated using accuracy, precision, recall, and F1-score metrics. The table below presents the results:
 <div align="center">
 
 |    Classifier    |  Accuracy  | Precision |  Recall   |    F1     |
