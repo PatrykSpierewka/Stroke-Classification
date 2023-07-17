@@ -26,3 +26,5 @@ The dataset contained information about various patient features, such as age, g
 |        NB        |    0.77    |    0.77   |    0.77   |    0.77   |
 
 </div>
+
+The MLP classifier achieved the highest accuracy of 0.91, indicating its effectiveness in stroke classification.
