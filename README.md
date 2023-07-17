@@ -1,5 +1,9 @@
 # Stroke-Classification
 Supervised learning used for stroke classification based on data from: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+The dataset contained information about various patient features, such as age, gender, marital status, occupation, glucose level, BMI (Body Mass Index), smoking status, and more. These features were used to predict the likelihood of a stroke occurrence.
+
+
+
 
 Classification carried out using the following methods:
 - KNN (K-nearest-neighbours)
