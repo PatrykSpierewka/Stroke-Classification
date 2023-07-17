@@ -3,10 +3,7 @@
 
 The dataset contained information about various patient features, such as age, gender, marital status, occupation, glucose level, BMI (Body Mass Index), smoking status, and more. These features were used to predict the likelihood of a stroke occurrence.
 
-
-
-
-Classification carried out using the following methods:
+### Classification carried out using the following methods:
 - KNN (K-nearest-neighbours)
 - SVM (Support Vector Machines)
 - RF (Random Forest)
