@@ -30,3 +30,7 @@ The downloaded database was imported into the environment, cleared of non-numeri
 </div>
 
 The MLP classifier achieved the highest accuracy of 0.91, indicating its effectiveness in stroke classification.
+
+<p align="center">
+  <img src= "https://github.com/PatrykSpierewka/Stroke-Classification/assets/101202344/34335e95-fd90-458d-889b-ec4de348ce14" alt="plos_stroke">
+</p>
