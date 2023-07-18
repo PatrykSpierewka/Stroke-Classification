@@ -3,6 +3,8 @@
 
 The dataset contained information about various patient features, such as age, gender, marital status, occupation, glucose level, BMI (Body Mass Index), smoking status, and more. These features were used to predict the likelihood of a stroke occurrence.
 
+The downloaded database was imported into the environment, cleared of non-numeric data, the problem of unbalanced classes was resolved by up-sampling or down-sampling, grid-search of parameters was used for most classifiers in order to obtain the best classifier parameters, records with outliers were removed, data was divided into training and test sets in the ratio of 85%:15%
+
 ### Classification carried out using the following methods:
 - KNN (K-nearest-neighbours)
 - SVM (Support Vector Machines)
