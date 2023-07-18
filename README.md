@@ -6,13 +6,13 @@ The dataset contained information about various patient features, such as age, g
 The downloaded database was imported into the environment, cleared of non-numeric data, the problem of unbalanced classes was resolved by up-sampling or down-sampling, grid-search of parameters was used for most classifiers in order to obtain the best classifier parameters, cross-validation was used to make even better use of the available database, records with outliers were removed, data was divided into training and test sets in the ratio of 85%:15%.
 
 ### Classification carried out using the following methods:
-- KNN (K-nearest-neighbours)
-- SVM (Support Vector Machines)
-- RF (Random Forest)
-- LR (Logistic Regression)
-- MLP (Multilayer Perceptron)
-- NB (Naive Bayes)
-- GB (Gradient Boosting)
+- KNN (K-nearest-neighbours),
+- SVM (Support Vector Machines),
+- RF (Random Forest),
+- LR (Logistic Regression),
+- MLP (Multilayer Perceptron),
+- NB (Naive Bayes),
+- GB (Gradient Boosting).
 
 
 ### The performance of each classifier was evaluated using accuracy, precision, recall, and F1-score metrics. The table below presents the results:
